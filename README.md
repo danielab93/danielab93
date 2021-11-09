@@ -25,6 +25,8 @@ Hallo, ich heiße Daniela, bin 28 Jahre alt und wohne in der wunderschönen Hans
 - (veganes) Essen
 - Authentizität
 
+<img src="https://images.pexels.com/photos/3822621/pexels-photo-3822621.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" width="50%" height="50%">
+
 ## Was ich nicht mag
 - Stress & Hektik
 - Höhe 
