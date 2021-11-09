@@ -34,7 +34,7 @@ Hallo, ich heiße Daniela, bin 28 Jahre alt und wohne in der wunderschönen Hans
 ## LinkedIn
 Hier geht es zu meinem [LinkedIn Profil](https://de.linkedin.com/in/daniela-blase).
 
-## Meine Lieblingsfunktion
+## Meine Lieblingsfunktion in JavaScript
 for (var i = 0; i < 5; i++) {
   text += "The number is " + i;
 }
