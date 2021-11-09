@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Über mich
-Hallo, ich heiße Daniela, bin 28 Jahre alt und wohne in der wunderschönen Hansestadt Hamburg. Aktuell bin ich als _Trainee_ im Web Development Bootcamp von Neue Fische :fish:.
+Hallo, ich heiße Daniela, bin 28 Jahre alt und wohne in der wunderschönen Hansestadt Hamburg. Aktuell bin ich als _**Trainee**_ im Web Development Bootcamp von Neue Fische :fish:.
 
 ## Was ich mag
 - Italien :it:
