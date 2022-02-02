@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About
-Hello, my name is Daniela, I'm 28 years old and live in the beautiful Hanseatic city of Hamburg. I participated in the Web Development Bootcamp of neuefische :fish: from November 2021 until February 2022 and learned a lot of coding stuff!  
+Hello, my name is Daniela, I'm 28 years old and live in the beautiful Hanseatic city of Hamburg. I participated in the Web Development Bootcamp of neuefische :fish: from November 2021 until February 2022 and learned a lot of coding stuff! And now I'm eager to improve my coding skills.
 
 ## What I like
 - Italy :it:
